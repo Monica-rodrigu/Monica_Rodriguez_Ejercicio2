@@ -1,2 +1,6 @@
 rama 2
+<<<<<<< HEAD
 nueva linea master local
+=======
+nueva linea
+>>>>>>> Monica_Rodriguez_rama
